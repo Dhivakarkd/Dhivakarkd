@@ -20,6 +20,7 @@
 ## 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivakarkd" alt="logo" height="200" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarkd&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ##

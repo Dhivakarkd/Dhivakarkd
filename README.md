@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhivakar R M</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on **[QuoteGenerator](https://github.com/Dhivakarkd/QuoteGenerator)**
+- 🔭 I’m currently working on **[Quote-App(https://github.com/Dhivakarkd/Quotes-App)**
 
-- 🌱 I’m currently learning **Apache Kafka**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java Core, Spring boot, Gradle**
+- 💬 Ask me about **Java Core,Spring boot,Gradle,Kafka,JSR,Control-M**
 
-- 📫 Reach me at **dhivakar084@gmail.com**
+- 📫 Reach me at **dhivainfo084@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

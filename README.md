@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhivakar R M</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on **[Quote-App(https://github.com/Dhivakarkd/Quotes-App)**
+- 🔭 I’m currently working on **[Quote-App](https://github.com/Dhivakarkd/Quotes-App)**
 
 - 🌱 I’m currently learning **Flutter**
 

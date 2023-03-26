@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **[Quote-App](https://github.com/Dhivakarkd/Quotes-App)**
+- 🔭 I’m currently working on **[Redirector](https://github.com/Dhivakarkd/Redirector/)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React , Node.js**
 
 - 💬 Ask me about **Java Core,Spring boot,Gradle,Kafka,JSR,Control-M**
 

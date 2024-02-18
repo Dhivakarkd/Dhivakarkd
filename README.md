@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **[Redirector](https://github.com/Dhivakarkd/Redirector/)**
+- 🔭 I’m currently working on **[WalletWatch](https://github.com/Dhivakarkd/WalletWatch/)**, a expense manager app built with Flutter and Spring Boot. Stay tuned for updates! 💼💰
 
 - 🌱 I’m currently learning **React , Node.js**
 

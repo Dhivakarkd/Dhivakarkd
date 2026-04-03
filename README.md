@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Dhivakar R M
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Dhivakar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Cloud%20Native%20Advocate&descAlignY=58&descAlign=50)
 
-### 🚀 Full-Stack Developer | Java Enthusiast | Cloud Native Advocate
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+Spring+Boot+Expert+%E2%98%95;Microservices+Architect+%F0%9F%8F%97%EF%B8%8F;Event-Driven+Systems+Builder+%F0%9F%94%A5;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivakar-r-m)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhivakarkd.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivainfo084@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhivakarkd)
 
@@ -20,6 +21,7 @@
 const dhivakar = {
   location: "India 🇮🇳",
   role: "Backend Developer",
+  portfolio: "https://dhivakarkd.github.io/",
   currentFocus: [
     "Microservices",
     "Event-Driven Architecture",
@@ -30,6 +32,15 @@ const dhivakar = {
   funFact: "I turn coffee into code ☕ → 💻",
 };
 ```
+
+---
+
+## 🔥 What I'm Up To
+
+- 🏗️ Building **WalletWatch** — full-stack expense manager (Flutter + Spring Boot)
+- 📚 Mastering **System Design** & **Microservices patterns**
+- 🌐 Growing my portfolio at **[dhivakarkd.github.io](https://dhivakarkd.github.io/)**
+- 🤝 Open to **collaborations** on Java / Spring Boot projects
 
 ---
 
@@ -66,7 +77,8 @@ I'm constantly building and learning. Check out my repositories for:
 - 🔧 Developer tools
 - 📚 Learning projects
 
-[**View All Repositories →**](https://github.com/Dhivakarkd?tab=repositories)
+[**View All Repositories →**](https://github.com/Dhivakarkd?tab=repositories)  
+[**Visit My Portfolio →**](https://dhivakarkd.github.io/)
 
 </td>
 </tr>
@@ -95,13 +107,20 @@ I'm constantly building and learning. Check out my repositories for:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### **Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### **Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -164,6 +183,7 @@ I'm constantly building and learning. Check out my repositories for:
 
 I'm always open to interesting conversations and collaboration opportunities!
 
+**🌐 Portfolio:** [dhivakarkd.github.io](https://dhivakarkd.github.io/)  
 **💼 Professional Networking:** [LinkedIn](https://linkedin.com/in/dhivakar-r-m)  
 **📧 Email:** [dhivainfo084@gmail.com](mailto:dhivainfo084@gmail.com)  
 **💻 Code:** [GitHub](https://github.com/Dhivakarkd)
@@ -177,5 +197,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 ### ⭐ From [Dhivakarkd](https://github.com/Dhivakarkd) with 💙
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>

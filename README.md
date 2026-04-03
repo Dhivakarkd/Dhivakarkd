@@ -134,8 +134,15 @@ I'm constantly building and learning. Check out my repositories for:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhivakarkd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarkd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhivakarkd&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhivakarkd&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhivakarkd&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhivakarkd&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -153,21 +160,12 @@ I'm constantly building and learning. Check out my repositories for:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 LeetCode
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhivakarkd&theme=tokyonight&no-frame=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Dhivakarkd?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Dhivakarkd/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Dhivakarkd-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
+[![Problems Solved](https://img.shields.io/badge/Profile-View%20Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
 
 </div>
 
@@ -187,16 +185,6 @@ I'm constantly building and learning. Check out my repositories for:
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/dhivakarkd/dhivakarkd/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌌 GitHub Skyline
-
-<div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/View%20My%20GitHub%20Skyline%20🏙️-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/dhivakarkd/2025)
 
 </div>
 

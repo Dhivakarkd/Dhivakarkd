@@ -6,10 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivakar-r-m)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhivakarkd.github.io/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dhivakarkd)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivainfo084@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhivakarkd)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhivakarkd&color=blueviolet&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dhivakarkd.dhivakarkd&left_color=gray&right_color=blueviolet)
 
 </div>
 
@@ -22,6 +25,8 @@ const dhivakar = {
   location: "India 🇮🇳",
   role: "Backend Developer",
   portfolio: "https://dhivakarkd.github.io/",
+  blog: "https://dev.to/dhivakarkd",
+  leetcode: "https://leetcode.com/u/Dhivakarkd/",
   currentFocus: [
     "Microservices",
     "Event-Driven Architecture",
@@ -40,6 +45,7 @@ const dhivakar = {
 - 🏗️ Building **WalletWatch** — full-stack expense manager (Flutter + Spring Boot)
 - 📚 Mastering **System Design** & **Microservices patterns**
 - 🌐 Growing my portfolio at **[dhivakarkd.github.io](https://dhivakarkd.github.io/)**
+- ✍️ Writing articles on **[Dev.to](https://dev.to/dhivakarkd)**
 - 🤝 Open to **collaborations** on Java / Spring Boot projects
 
 ---
@@ -127,33 +133,50 @@ I'm constantly building and learning. Check out my repositories for:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhivakarkd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakarkd&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhivakarkd&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhivakarkd&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhivakarkd&theme=tokyonight)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhivakarkd&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhivakarkd&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 <div align="center">
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dhivakarkd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhivakarkd&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 LeetCode
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhivakarkd&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Dhivakarkd-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
+[![Problems Solved](https://img.shields.io/badge/Profile-View%20Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
 
 </div>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> Browse all articles on [dev.to/dhivakarkd](https://dev.to/dhivakarkd)
 
 ---
 
@@ -184,6 +207,8 @@ I'm constantly building and learning. Check out my repositories for:
 I'm always open to interesting conversations and collaboration opportunities!
 
 **🌐 Portfolio:** [dhivakarkd.github.io](https://dhivakarkd.github.io/)  
+**✍️ Blog:** [dev.to/dhivakarkd](https://dev.to/dhivakarkd)  
+**🧩 LeetCode:** [leetcode.com/u/Dhivakarkd](https://leetcode.com/u/Dhivakarkd/)  
 **💼 Professional Networking:** [LinkedIn](https://linkedin.com/in/dhivakar-r-m)  
 **📧 Email:** [dhivainfo084@gmail.com](mailto:dhivainfo084@gmail.com)  
 **💻 Code:** [GitHub](https://github.com/Dhivakarkd)

@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Dhivakar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20Enthusiast%20%7C%20Cloud%20Native%20Advocate&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Dhivakar%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20Developer%20%7C%20Java%20%2B%20Spring%20Boot%20%7C%20Cloud%20Native%20%7C%20AI-Assisted%20Dev&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+Spring+Boot+Expert+%E2%98%95;Microservices+Architect+%F0%9F%8F%97%EF%B8%8F;Event-Driven+Systems+Builder+%F0%9F%94%A5;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+Backend+Developer+%E2%98%95;Microservices+%26+Event-Driven+Systems+%F0%9F%8F%97%EF%B8%8F;Building+with+AI-assisted+workflows+%F0%9F%A4%96;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivakar-r-m)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhivakarkd.github.io/)
@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhivakarkd)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhivakarkd&color=blueviolet&style=flat-square)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dhivakarkd.dhivakarkd&left_color=gray&right_color=blueviolet)
 
 </div>
 
@@ -31,8 +30,15 @@ const dhivakar = {
     "Microservices",
     "Event-Driven Architecture",
     "Cloud Native Apps",
+    "AI-Assisted Development",
   ],
-  learning: ["React", "Node.js", "System Design"],
+  learning: [
+    "Modern Java (virtual threads)",
+    "Kubernetes",
+    "Observability (OpenTelemetry)",
+    "MCP & AI agents",
+    "System Design",
+  ],
   askMeAbout: ["Java", "Spring Boot", "Kafka", "Gradle", "Control-M", "JSR"],
   funFact: "I turn coffee into code ☕ → 💻",
 };
@@ -43,8 +49,8 @@ const dhivakar = {
 ## 🔥 What I'm Up To
 
 - 🏗️ Building **WalletWatch** — full-stack expense manager (Flutter + Spring Boot)
-- 📚 Mastering **System Design** & **Microservices patterns**
-- 🌐 Growing my portfolio at **[dhivakarkd.github.io](https://dhivakarkd.github.io/)**
+- 🤖 Exploring **AI-assisted development** — coding agents and MCP integrations
+- 📚 Deepening **System Design**, **microservices patterns** and **observability**
 - ✍️ Writing articles on **[Dev.to](https://dev.to/dhivakarkd)**
 - 🤝 Open to **collaborations** on Java / Spring Boot projects
 
@@ -97,9 +103,10 @@ I'm constantly building and learning. Check out my repositories for:
 ### **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### **Frameworks & Libraries**
 
@@ -108,7 +115,7 @@ I'm constantly building and learning. Check out my repositories for:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### **Tools & Technologies**
+### **Messaging, Build & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -116,6 +123,7 @@ I'm constantly building and learning. Check out my repositories for:
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### **Databases**
 
@@ -126,7 +134,6 @@ I'm constantly building and learning. Check out my repositories for:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
 
@@ -141,31 +148,7 @@ I'm constantly building and learning. Check out my repositories for:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhivakarkd&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhivakarkd&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhivakarkd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhivakarkd&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🧩 LeetCode
-
-<div align="center">
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Dhivakarkd-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
-[![Problems Solved](https://img.shields.io/badge/Profile-View%20Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhivakarkd/)
 
 </div>
 
@@ -190,38 +173,9 @@ I'm constantly building and learning. Check out my repositories for:
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-**🌐 Portfolio:** [dhivakarkd.github.io](https://dhivakarkd.github.io/)  
-**✍️ Blog:** [dev.to/dhivakarkd](https://dev.to/dhivakarkd)  
-**🧩 LeetCode:** [leetcode.com/u/Dhivakarkd](https://leetcode.com/u/Dhivakarkd/)  
-**💼 Professional Networking:** [LinkedIn](https://linkedin.com/in/dhivakar-r-m)  
-**📧 Email:** [dhivainfo084@gmail.com](mailto:dhivainfo084@gmail.com)  
-**💻 Code:** [GitHub](https://github.com/Dhivakarkd)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ From [Dhivakarkd](https://github.com/Dhivakarkd) with 💙
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
